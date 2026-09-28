@@ -1,0 +1,68 @@
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerImg": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Left-arm orthodox",
+    "battingStyle": "Left-hand bat",
+    "price": 700
+  },
+  {
+    "playerName": "Virat Kohli",
+    "playerImg": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "India",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand bat",
+    "price": 700
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerImg": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Pakistan",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-hand bat",
+    "price": 700
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerImg": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "India",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand bat",
+    "price": 700
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerImg": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm leg break",
+    "battingStyle": "Right-hand bat",
+    "price": 700
+  }
+  ,
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerImg": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "India",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand bat",
+    "price": 400
+  }
+,
+  {
+    "playerName": "Babar Azam",
+    "playerImg": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Pakistan",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-hand bat",
+    "price": 2000
+  }
+
+]
